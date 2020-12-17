@@ -13,7 +13,7 @@ This locally-executable API can be installed and executed from [http://localhost
 ### Installation and execution with pipenv
 
 1. Clone this repository using `$ git clone https://github.com/pythonmentor/ocmovies-api.git` (you can also download the code using [as a zip file](https://github.com/pythonmentor/ocmovies-api/archive/master.zip))
-2. Move to the ocmovies-api root folder with `$ cd ocmovies-api`
+2. Move to the ocmovies-api root folder with `$ cd ocmovies-api-en`
 3. Install project dependencies with `pipenv install` 
 4. Create and populate project database with `pipenv run python manage.py create_db`
 5. Run the server with `pipenv run python manage.py runserver`
@@ -27,7 +27,7 @@ of the API, you only have to execute steps 5 from the root folder of the project
 ### Installation and execution without pipenv (using venv and pip)
 
 1. Clone this repository using $ git clone `https://github.com/pythonmentor/ocmovies-api.git` (you can also download the code using [as a zip file](https://github.com/pythonmentor/ocmovies-api/archive/master.zip))
-2. Move to the ocmovies-api root folder with `$ cd ocmovies-api`
+2. Move to the ocmovies-api root folder with `$ cd ocmovies-api-en`
 3. Create a virtual environment for the project with `$ python -m venv env` on windows or `$ python3 -m venv env` on macos or linux.
 4. Activate the virtual environment with `$ env\Scripts\activate` on windows or `$ source env/bin/activate` on macos or linux.
 5. Install project dependencies with `$ pip install -r requirements.txt`
