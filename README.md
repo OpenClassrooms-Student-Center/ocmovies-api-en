@@ -26,7 +26,7 @@ be requested from endpoints starting with the following base URL: [http://localh
 Steps 1-4 are only required for initial installation. For subsequent launches
 of the API, you only have to execute step 5 from the root folder of the project.
 
-### Installation and execution without pipenv (using venv and pip)
+### Option 2: Installation and execution without pipenv (using venv and pip)
 
 1. Clone this repository using $ git clone `https://github.com/pythonmentor/ocmovies-api.git` (you can also download the code using [as a zip file](https://github.com/pythonmentor/ocmovies-api/archive/master.zip))
 2. Move to the ocmovies-api root folder with `$ cd ocmovies-api-en`
